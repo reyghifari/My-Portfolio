@@ -258,6 +258,11 @@ main {
   transform: translateY(-3px);
 }
 
+#upwork-link:hover {
+  border-color: #14a800;
+  color: #14a800;
+}
+
 /* ===== HERO RIGHT ===== */
 .hero-right {
   position: relative;

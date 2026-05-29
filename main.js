@@ -29,7 +29,7 @@ const nav = document.querySelector('.glass-nav');
 window.addEventListener('scroll', () => {
   if (window.scrollY > 50) {
     nav.style.boxShadow = '0 4px 24px rgba(0,0,0,0.08)';
-    nav.style.background = 'rgba(73, 69, 62, 0.97)';
+    nav.style.background = 'rgba(250, 248, 244, 0.97)';
   } else {
     nav.style.boxShadow = 'none';
     nav.style.background = 'rgba(250, 248, 244, 0.92)';
